@@ -1,7 +1,7 @@
 ---
 authors:
 - Sohana Singh
-bio: My research interests include bioinformatics and data science.
+bio: My research interests include data science, machine learning and bioinformatics.
 education:
   courses:
   - course: PhD in Genetics
@@ -15,9 +15,11 @@ education:
     year: 2009
 email: ""
 interests:
-- Bioinformatics
 - Data Science
+- Machine Learning
+- Bioinformatics
 - Technology
+- Art
 name: Sohana Singh
 organizations:
 - name: Oceanographic Research Institute
@@ -42,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-Sohana Singh is a post-doctoral researcher specializing in genetics and bioinformatics at the Oceanographic Research Institute in Durban, South Africa. She is part of a team at the forefront of an exciting new project developing DNA metabarcoding as a tool for surveying marine biodiversity from whole communities of zooplankton on the east coast of South Africa.
+I am an innovative scientist with over five years' of experience in data generation, management and analytics. I get excited by cool visualizations and using data to tell compelling stories. I am currently researcher specializing in genetics and bioinformatics at the Oceanographic Research Institute in Durban, South Africa. I am part of a team at the forefront of an exciting new project developing DNA metabarcoding as a tool for surveying marine biodiversity from whole communities of zooplankton on the east coast of South Africa.

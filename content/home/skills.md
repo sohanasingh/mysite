@@ -39,15 +39,9 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "vials"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "PCR"
-  description = ""
-  
-[[feature]]
-  icon = "dna"
-  icon_pack = "fas"
-  name = "DNA extraction"
+  name = "Data Visualization"
   description = ""
   
 [[feature]]
@@ -62,4 +56,15 @@ subtitle = ""
   name = "Microsoft Office"
   description = ""
 
+[[feature]]
+  icon = "vials"
+  icon_pack = "fas"
+  name = "PCR"
+  description = ""
+  
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "DNA extraction"
+  description = ""
 +++
