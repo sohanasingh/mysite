@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2020-04-17T00:00:00Z"
 image:
   caption: 
   focal_point: Smart
