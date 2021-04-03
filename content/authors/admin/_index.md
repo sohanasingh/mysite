@@ -22,9 +22,9 @@ interests:
 - Art
 name: Sohana Singh
 organizations:
-- name: Oceanographic Research Institute
+- name: South African Sugarcane Research Institute
   url: ""
-role: Post-Doctoral Researcher
+role: Scientific Programmer
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,4 +44,4 @@ user_groups:
 - Visitors
 ---
 
-I am an innovative scientist with over five years' of experience in data generation, management and analytics. I get excited by cool visualizations and using data to tell compelling stories. I am currently an assistant scientist specializing in genetics and bioinformatics at the Oceanographic Research Institute in Durban, South Africa. I am part of a team at the forefront of an exciting new project developing DNA metabarcoding as a tool for surveying marine biodiversity from whole communities of zooplankton on the east coast of South Africa.
+I am an innovative scientist with over five years' of experience in data generation, management and analysis and modelling. I get excited by cool visualizations and using data to tell compelling stories. I am currently a scientific programmer at the South African Sugarcane Research Institute.

@@ -69,7 +69,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sohanasngh@gmail.com"
 #phone = "888 888 88 88"
-address = "ORI, SAAMBR, Ushaka Marine World, 1 King Shaka Avenue, Durban, 4001"
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -103,10 +103,10 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 2
+map = 0
 map_api_key = ""
-latitude = " -29.8674"
-longitude = "31.0459"
+latitude = ""
+longitude = ""
 zoom = 15
 
 ############################
