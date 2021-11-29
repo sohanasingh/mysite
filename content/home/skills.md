@@ -35,7 +35,7 @@ subtitle = ""
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL"
+  name = "SQL & PL/SQL"
   description = ""
   
 [[feature]]
