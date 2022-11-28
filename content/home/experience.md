@@ -28,7 +28,11 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Develop, validate and maintain sugarcane crop yield models for applied research and decision support systems
+  * Development of a linear optimization algorithm using PuLP for linear programming and API development using Flask (Python) for optimizing fertilizer combinations and cost in response to soil nutritional requirements in order to help growers minimise costs and application of fertilizers in the field.
+
+* Upgrading an industrially important sugarcane crop forecast yield model from Visual Basic 6 to PL/SQL
+
+* Development of a grower portal using Oracle APEX where growers can access reports, calculators, submit forms to lab, track samples and access quotes and invoices.
  """
 
 [[experience]]

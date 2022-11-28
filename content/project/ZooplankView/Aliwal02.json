@@ -1,0 +1,5404 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "Manta",
+      "children": [
+        {
+          "name": "100m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Canthocalanus",
+                          "children": [
+                            {
+                              "name": "pauper",
+                              "children": [
+                                {
+                                  "name": "Canthocalanus_pauper",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Neocalanus",
+                          "children": [
+                            {
+                              "name": "gracilis",
+                              "children": [
+                                {
+                                  "name": "Neocalanus_gracilis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "pileatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_pileatus",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "subcrassus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_subcrassus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Carcinoplax",
+                          "children": [
+                            {
+                              "name": "monodi",
+                              "children": [
+                                {
+                                  "name": "Carcinoplax_monodi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Charybdis",
+                          "children": [
+                            {
+                              "name": "feriata",
+                              "children": [
+                                {
+                                  "name": "Charybdis_feriata",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "longicollis",
+                              "children": [
+                                {
+                                  "name": "Charybdis_longicollis",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "lucifera",
+                              "children": [
+                                {
+                                  "name": "Charybdis_lucifera",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Diogenes",
+                          "children": [
+                            {
+                              "name": "costatus",
+                              "children": [
+                                {
+                                  "name": "Diogenes_costatus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ixa",
+                          "children": [
+                            {
+                              "name": "monodi",
+                              "children": [
+                                {
+                                  "name": "Ixa_monodi",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Liocarcinus",
+                          "children": [
+                            {
+                              "name": "corrugatus",
+                              "children": [
+                                {
+                                  "name": "Liocarcinus_corrugatus",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "sp. DNZ105",
+                              "children": [
+                                {
+                                  "name": "Lucifer_sp. DNZ105",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Thalamita",
+                          "children": [
+                            {
+                              "name": "parvidens",
+                              "children": [
+                                {
+                                  "name": "Thalamita_parvidens",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 6
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Euphausiacea",
+                      "children": [
+                        {
+                          "name": "Euphausia",
+                          "children": [
+                            {
+                              "name": "recurva",
+                              "children": [
+                                {
+                                  "name": "Euphausia_recurva",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Blenniiformes",
+                      "children": [
+                        {
+                          "name": "Parablennius",
+                          "children": [
+                            {
+                              "name": "pilicornis",
+                              "children": [
+                                {
+                                  "name": "Parablennius_pilicornis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "sadina",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_sadina",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "whiteheadi",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_whiteheadi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Sardinella",
+                          "children": [
+                            {
+                              "name": "gibbosa",
+                              "children": [
+                                {
+                                  "name": "Sardinella_gibbosa",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Perciformes",
+                      "children": [
+                        {
+                          "name": "Pomadasys",
+                          "children": [
+                            {
+                              "name": "olivaceus",
+                              "children": [
+                                {
+                                  "name": "Pomadasys_olivaceus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cnidaria",
+              "children": [
+                {
+                  "name": "Hydrozoa",
+                  "children": [
+                    {
+                      "name": "Siphonophorae",
+                      "children": [
+                        {
+                          "name": "Diphyes",
+                          "children": [
+                            {
+                              "name": "dispar",
+                              "children": [
+                                {
+                                  "name": "Diphyes_dispar",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "200m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Candacia",
+                          "children": [
+                            {
+                              "name": "curta",
+                              "children": [
+                                {
+                                  "name": "Candacia_curta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Canthocalanus",
+                          "children": [
+                            {
+                              "name": "pauper",
+                              "children": [
+                                {
+                                  "name": "Canthocalanus_pauper",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "minuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_minuta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "mucronatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_mucronatus",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "pileatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_pileatus",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "subcrassus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_subcrassus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Ixa",
+                          "children": [
+                            {
+                              "name": "monodi",
+                              "children": [
+                                {
+                                  "name": "Ixa_monodi",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "sp. DNZ105",
+                              "children": [
+                                {
+                                  "name": "Lucifer_sp. DNZ105",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Thalamita",
+                          "children": [
+                            {
+                              "name": "gatavakensis",
+                              "children": [
+                                {
+                                  "name": "Thalamita_gatavakensis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 5
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Euphausiacea",
+                      "children": [
+                        {
+                          "name": "Euphausia",
+                          "children": [
+                            {
+                              "name": "recurva",
+                              "children": [
+                                {
+                                  "name": "Euphausia_recurva",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Ostracoda",
+                  "children": [
+                    {
+                      "name": "Halocyprida",
+                      "children": [
+                        {
+                          "name": "Mikroconchoecia",
+                          "children": [
+                            {
+                              "name": "sp. Os099.1.2",
+                              "children": [
+                                {
+                                  "name": "Mikroconchoecia_sp. Os099.1.2",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Carangiformes",
+                      "children": [
+                        {
+                          "name": "Trachurus",
+                          "children": [
+                            {
+                              "name": "delagoa",
+                              "children": [
+                                {
+                                  "name": "Trachurus_delagoa",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "sadina",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_sadina",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Ovalentaria",
+                      "children": [
+                        {
+                          "name": "Chromis",
+                          "children": [
+                            {
+                              "name": "dasygenys",
+                              "children": [
+                                {
+                                  "name": "Chromis_dasygenys",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Perciformes",
+                      "children": [
+                        {
+                          "name": "Pomadasys",
+                          "children": [
+                            {
+                              "name": "olivaceus",
+                              "children": [
+                                {
+                                  "name": "Pomadasys_olivaceus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Serranus",
+                          "children": [
+                            {
+                              "name": "knysnaensis",
+                              "children": [
+                                {
+                                  "name": "Serranus_knysnaensis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Scombriformes",
+                      "children": [
+                        {
+                          "name": "Scomber",
+                          "children": [
+                            {
+                              "name": "colias",
+                              "children": [
+                                {
+                                  "name": "Scomber_colias",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mollusca",
+              "children": [
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "20m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Calanus",
+                          "children": [
+                            {
+                              "name": "sinicus",
+                              "children": [
+                                {
+                                  "name": "Calanus_sinicus",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "minuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_minuta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Amphipoda",
+                      "children": [
+                        {
+                          "name": "Hyperioides",
+                          "children": [
+                            {
+                              "name": "sibaginis",
+                              "children": [
+                                {
+                                  "name": "Hyperioides_sibaginis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Galathea",
+                          "children": [
+                            {
+                              "name": "nexa",
+                              "children": [
+                                {
+                                  "name": "Galathea_nexa",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Heterolithadia",
+                          "children": [
+                            {
+                              "name": "sp.",
+                              "children": [
+                                {
+                                  "name": "Heterolithadia_sp.",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "sp. DNZ105",
+                              "children": [
+                                {
+                                  "name": "Lucifer_sp. DNZ105",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medaeops",
+                          "children": [
+                            {
+                              "name": "neglectus",
+                              "children": [
+                                {
+                                  "name": "Medaeops_neglectus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medorippe",
+                          "children": [
+                            {
+                              "name": "lanata",
+                              "children": [
+                                {
+                                  "name": "Medorippe_lanata",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ocypode",
+                          "children": [
+                            {
+                              "name": "ryderi",
+                              "children": [
+                                {
+                                  "name": "Ocypode_ryderi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Paraleptuca",
+                          "children": [
+                            {
+                              "name": "chlorophthalmus",
+                              "children": [
+                                {
+                                  "name": "Paraleptuca_chlorophthalmus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Euphausiacea",
+                      "children": [
+                        {
+                          "name": "Euphausia",
+                          "children": [
+                            {
+                              "name": "recurva",
+                              "children": [
+                                {
+                                  "name": "Euphausia_recurva",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mysida",
+                      "children": [
+                        {
+                          "name": "Mysidopsis",
+                          "children": [
+                            {
+                              "name": "sp. 4",
+                              "children": [
+                                {
+                                  "name": "Mysidopsis_sp. 4",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "whiteheadi",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_whiteheadi",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Spariformes",
+                      "children": [
+                        {
+                          "name": "Spondyliosoma",
+                          "children": [
+                            {
+                              "name": "emarginatum",
+                              "children": [
+                                {
+                                  "name": "Spondyliosoma_emarginatum",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cnidaria",
+              "children": [
+                {
+                  "name": "Hydrozoa",
+                  "children": [
+                    {
+                      "name": "Siphonophorae",
+                      "children": [
+                        {
+                          "name": "Muggiaea",
+                          "children": [
+                            {
+                              "name": "atlantica",
+                              "children": [
+                                {
+                                  "name": "Muggiaea_atlantica",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Nanomia",
+                          "children": [
+                            {
+                              "name": "bijuga",
+                              "children": [
+                                {
+                                  "name": "Nanomia_bijuga",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "50m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Calanus",
+                          "children": [
+                            {
+                              "name": "sinicus",
+                              "children": [
+                                {
+                                  "name": "Calanus_sinicus",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "pileatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_pileatus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Carcinoplax",
+                          "children": [
+                            {
+                              "name": "monodi",
+                              "children": [
+                                {
+                                  "name": "Carcinoplax_monodi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Diogenes",
+                          "children": [
+                            {
+                              "name": "aff. pallacens",
+                              "children": [
+                                {
+                                  "name": "Diogenes_aff. pallacens",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "costatus",
+                              "children": [
+                                {
+                                  "name": "Diogenes_costatus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Liocarcinus",
+                          "children": [
+                            {
+                              "name": "corrugatus",
+                              "children": [
+                                {
+                                  "name": "Liocarcinus_corrugatus",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "sp. DNZ105",
+                              "children": [
+                                {
+                                  "name": "Lucifer_sp. DNZ105",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medaeops",
+                          "children": [
+                            {
+                              "name": "neglectus",
+                              "children": [
+                                {
+                                  "name": "Medaeops_neglectus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medorippe",
+                          "children": [
+                            {
+                              "name": "lanata",
+                              "children": [
+                                {
+                                  "name": "Medorippe_lanata",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Nikoides",
+                          "children": [
+                            {
+                              "name": "sp.",
+                              "children": [
+                                {
+                                  "name": "Nikoides_sp.",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "sadina",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_sadina",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Scombriformes",
+                      "children": [
+                        {
+                          "name": "Scomber",
+                          "children": [
+                            {
+                              "name": "colias",
+                              "children": [
+                                {
+                                  "name": "Scomber_colias",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Scorpaeniformes",
+                      "children": [
+                        {
+                          "name": "Sorsogona",
+                          "children": [
+                            {
+                              "name": "portuguesa",
+                              "children": [
+                                {
+                                  "name": "Sorsogona_portuguesa",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mollusca",
+              "children": [
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ring",
+      "children": [
+        {
+          "name": "100m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Branchiopoda",
+                  "children": [
+                    {
+                      "name": "Onychopoda",
+                      "children": [
+                        {
+                          "name": "Pseudevadne",
+                          "children": [
+                            {
+                              "name": "tergestina",
+                              "children": [
+                                {
+                                  "name": "Pseudevadne_tergestina",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Calanus",
+                          "children": [
+                            {
+                              "name": "sinicus",
+                              "children": [
+                                {
+                                  "name": "Calanus_sinicus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Canthocalanus",
+                          "children": [
+                            {
+                              "name": "pauper",
+                              "children": [
+                                {
+                                  "name": "Canthocalanus_pauper",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 3
+                                }
+                              ]
+                            },
+                            {
+                              "name": "minuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_minuta",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "pileatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_pileatus",
+                                  "size": 6
+                                }
+                              ]
+                            },
+                            {
+                              "name": "subcrassus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_subcrassus",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 3
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 8
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Undinula",
+                          "children": [
+                            {
+                              "name": "vulgaris",
+                              "children": [
+                                {
+                                  "name": "Undinula_vulgaris",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Amphipoda",
+                      "children": [
+                        {
+                          "name": "Hyperioides",
+                          "children": [
+                            {
+                              "name": "sibaginis",
+                              "children": [
+                                {
+                                  "name": "Hyperioides_sibaginis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Actaea",
+                          "children": [
+                            {
+                              "name": "semblatae",
+                              "children": [
+                                {
+                                  "name": "Actaea_semblatae",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Alpheus",
+                          "children": [
+                            {
+                              "name": "dolerus",
+                              "children": [
+                                {
+                                  "name": "Alpheus_dolerus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Charybdis",
+                          "children": [
+                            {
+                              "name": "feriata",
+                              "children": [
+                                {
+                                  "name": "Charybdis_feriata",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Diogenes",
+                          "children": [
+                            {
+                              "name": "costatus",
+                              "children": [
+                                {
+                                  "name": "Diogenes_costatus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Embalia",
+                          "children": [
+                            {
+                              "name": "nux",
+                              "children": [
+                                {
+                                  "name": "Embalia_nux",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lauridromia",
+                          "children": [
+                            {
+                              "name": "dehaani",
+                              "children": [
+                                {
+                                  "name": "Lauridromia_dehaani",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Liocarcinus",
+                          "children": [
+                            {
+                              "name": "corrugatus",
+                              "children": [
+                                {
+                                  "name": "Liocarcinus_corrugatus",
+                                  "size": 8
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "intermedius",
+                              "children": [
+                                {
+                                  "name": "Lucifer_intermedius",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medaeops",
+                          "children": [
+                            {
+                              "name": "neglectus",
+                              "children": [
+                                {
+                                  "name": "Medaeops_neglectus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Nikoides",
+                          "children": [
+                            {
+                              "name": "sp.",
+                              "children": [
+                                {
+                                  "name": "Nikoides_sp.",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 8
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Euphausiacea",
+                      "children": [
+                        {
+                          "name": "Euphausia",
+                          "children": [
+                            {
+                              "name": "recurva",
+                              "children": [
+                                {
+                                  "name": "Euphausia_recurva",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Stylocheiron",
+                          "children": [
+                            {
+                              "name": "carinatum",
+                              "children": [
+                                {
+                                  "name": "Stylocheiron_carinatum",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chaetognatha",
+              "children": [
+                {
+                  "name": "Sagittoidea",
+                  "children": [
+                    {
+                      "name": "Aphragmophora",
+                      "children": [
+                        {
+                          "name": "Aidanosagitta",
+                          "children": [
+                            {
+                              "name": "neglecta",
+                              "children": [
+                                {
+                                  "name": "Aidanosagitta_neglecta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Blenniiformes",
+                      "children": [
+                        {
+                          "name": "Parablennius",
+                          "children": [
+                            {
+                              "name": "pilicornis",
+                              "children": [
+                                {
+                                  "name": "Parablennius_pilicornis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Scartella",
+                          "children": [
+                            {
+                              "name": "emarginata",
+                              "children": [
+                                {
+                                  "name": "Scartella_emarginata",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "sadina",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_sadina",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "whiteheadi",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_whiteheadi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Sardinella",
+                          "children": [
+                            {
+                              "name": "gibbosa",
+                              "children": [
+                                {
+                                  "name": "Sardinella_gibbosa",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Perciformes",
+                      "children": [
+                        {
+                          "name": "Pomadasys",
+                          "children": [
+                            {
+                              "name": "olivaceus",
+                              "children": [
+                                {
+                                  "name": "Pomadasys_olivaceus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Scorpaeniformes",
+                      "children": [
+                        {
+                          "name": "Cociella",
+                          "children": [
+                            {
+                              "name": "heemstrai",
+                              "children": [
+                                {
+                                  "name": "Cociella_heemstrai",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "200m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Acrocalanus",
+                          "children": [
+                            {
+                              "name": "gracilis",
+                              "children": [
+                                {
+                                  "name": "Acrocalanus_gracilis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Calanus",
+                          "children": [
+                            {
+                              "name": "sinicus",
+                              "children": [
+                                {
+                                  "name": "Calanus_sinicus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Candacia",
+                          "children": [
+                            {
+                              "name": "curta",
+                              "children": [
+                                {
+                                  "name": "Candacia_curta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Canthocalanus",
+                          "children": [
+                            {
+                              "name": "pauper",
+                              "children": [
+                                {
+                                  "name": "Canthocalanus_pauper",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cosmocalanus",
+                          "children": [
+                            {
+                              "name": "darwinii",
+                              "children": [
+                                {
+                                  "name": "Cosmocalanus_darwinii",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 3
+                                }
+                              ]
+                            },
+                            {
+                              "name": "minuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_minuta",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "mucronatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_mucronatus",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "pileatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_pileatus",
+                                  "size": 5
+                                }
+                              ]
+                            },
+                            {
+                              "name": "subcrassus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_subcrassus",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 4
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 5
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Undinula",
+                          "children": [
+                            {
+                              "name": "vulgaris",
+                              "children": [
+                                {
+                                  "name": "Undinula_vulgaris",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Callichirus",
+                          "children": [
+                            {
+                              "name": "gilchristi",
+                              "children": [
+                                {
+                                  "name": "Callichirus_gilchristi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Charybdis",
+                          "children": [
+                            {
+                              "name": "feriata",
+                              "children": [
+                                {
+                                  "name": "Charybdis_feriata",
+                                  "size": 3
+                                }
+                              ]
+                            },
+                            {
+                              "name": "lucifera",
+                              "children": [
+                                {
+                                  "name": "Charybdis_lucifera",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "rathbuni",
+                              "children": [
+                                {
+                                  "name": "Charybdis_rathbuni",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ebalia",
+                          "children": [
+                            {
+                              "name": "nux",
+                              "children": [
+                                {
+                                  "name": "Ebalia_nux",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Liocarcinus",
+                          "children": [
+                            {
+                              "name": "corrugatus",
+                              "children": [
+                                {
+                                  "name": "Liocarcinus_corrugatus",
+                                  "size": 10
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "intermedius",
+                              "children": [
+                                {
+                                  "name": "Lucifer_intermedius",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Panulirus",
+                          "children": [
+                            {
+                              "name": "homarus",
+                              "children": [
+                                {
+                                  "name": "Panulirus_homarus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Thalamita",
+                          "children": [
+                            {
+                              "name": "crenata",
+                              "children": [
+                                {
+                                  "name": "Thalamita_crenata",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Trachysalambria",
+                          "children": [
+                            {
+                              "name": "curvirostris",
+                              "children": [
+                                {
+                                  "name": "Trachysalambria_curvirostris",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Euphausiacea",
+                      "children": [
+                        {
+                          "name": "Euphausia",
+                          "children": [
+                            {
+                              "name": "recurva",
+                              "children": [
+                                {
+                                  "name": "Euphausia_recurva",
+                                  "size": 16
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Stomatopoda",
+                      "children": [
+                        {
+                          "name": "Quollastria",
+                          "children": [
+                            {
+                              "name": " gonypetes",
+                              "children": [
+                                {
+                                  "name": "Quollastria_ gonypetes",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "gonypetes",
+                              "children": [
+                                {
+                                  "name": "Quollastria_gonypetes",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chaetognatha",
+              "children": [
+                {
+                  "name": "Sagittoidea",
+                  "children": [
+                    {
+                      "name": "Aphragmophora",
+                      "children": [
+                        {
+                          "name": "Sagitta",
+                          "children": [
+                            {
+                              "name": "enflata",
+                              "children": [
+                                {
+                                  "name": "Sagitta_enflata",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Anguilliformes",
+                      "children": [
+                        {
+                          "name": "Ophisurus",
+                          "children": [
+                            {
+                              "name": "serpens",
+                              "children": [
+                                {
+                                  "name": "Ophisurus_serpens",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Beryciformes",
+                      "children": [
+                        {
+                          "name": "Centroberyx",
+                          "children": [
+                            {
+                              "name": "spinosus",
+                              "children": [
+                                {
+                                  "name": "Centroberyx_spinosus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Carangiformes",
+                      "children": [
+                        {
+                          "name": "Trachurus",
+                          "children": [
+                            {
+                              "name": "delagoa",
+                              "children": [
+                                {
+                                  "name": "Trachurus_delagoa",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Engraulis",
+                          "children": [
+                            {
+                              "name": "japonicus",
+                              "children": [
+                                {
+                                  "name": "Engraulis_japonicus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "sadina",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_sadina",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "whiteheadi",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_whiteheadi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Sardinella",
+                          "children": [
+                            {
+                              "name": "gibbosa",
+                              "children": [
+                                {
+                                  "name": "Sardinella_gibbosa",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Perciformes",
+                      "children": [
+                        {
+                          "name": "Serranus",
+                          "children": [
+                            {
+                              "name": "knysnaensis",
+                              "children": [
+                                {
+                                  "name": "Serranus_knysnaensis",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Spariformes",
+                      "children": [
+                        {
+                          "name": "Spicara",
+                          "children": [
+                            {
+                              "name": "australis",
+                              "children": [
+                                {
+                                  "name": "Spicara_australis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cnidaria",
+              "children": [
+                {
+                  "name": "Hydrozoa",
+                  "children": [
+                    {
+                      "name": "Siphonophorae",
+                      "children": [
+                        {
+                          "name": "Liriope",
+                          "children": [
+                            {
+                              "name": "tetraphylla",
+                              "children": [
+                                {
+                                  "name": "Liriope_tetraphylla",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Trachymedusae",
+                      "children": [
+                        {
+                          "name": "Liriope",
+                          "children": [
+                            {
+                              "name": "tetraphylla",
+                              "children": [
+                                {
+                                  "name": "Liriope_tetraphylla",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mollusca",
+              "children": [
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Neogastropoda",
+                      "children": [
+                        {
+                          "name": "Nassarius",
+                          "children": [
+                            {
+                              "name": "subtranslucidus",
+                              "children": [
+                                {
+                                  "name": "Nassarius_subtranslucidus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 6
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "20m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Arthropoda",
+                  "children": [
+                    {
+                      "name": "Malacostraca",
+                      "children": [
+                        {
+                          "name": "Portunidae",
+                          "children": [
+                            {
+                              "name": "Xaiva",
+                              "children": [
+                                {
+                                  "name": "Portunidae_Xaiva",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Calanus",
+                          "children": [
+                            {
+                              "name": "sinicus",
+                              "children": [
+                                {
+                                  "name": "Calanus_sinicus",
+                                  "size": 9
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Canthocalanus",
+                          "children": [
+                            {
+                              "name": "pauper",
+                              "children": [
+                                {
+                                  "name": "Canthocalanus_pauper",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cosmocalanus",
+                          "children": [
+                            {
+                              "name": "darwinii",
+                              "children": [
+                                {
+                                  "name": "Cosmocalanus_darwinii",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 3
+                                }
+                              ]
+                            },
+                            {
+                              "name": "minuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_minuta",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "pileatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_pileatus",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "subcrassus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_subcrassus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 11
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Albunea",
+                          "children": [
+                            {
+                              "name": "sp.",
+                              "children": [
+                                {
+                                  "name": "Albunea_sp.",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Callichirus",
+                          "children": [
+                            {
+                              "name": "gilchristi",
+                              "children": [
+                                {
+                                  "name": "Callichirus_gilchristi",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Carcinoplax",
+                          "children": [
+                            {
+                              "name": "monodi",
+                              "children": [
+                                {
+                                  "name": "Carcinoplax_monodi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Charybdis",
+                          "children": [
+                            {
+                              "name": "feriata",
+                              "children": [
+                                {
+                                  "name": "Charybdis_feriata",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Diogenes",
+                          "children": [
+                            {
+                              "name": "aff. pallacens",
+                              "children": [
+                                {
+                                  "name": "Diogenes_aff. pallacens",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ebalia",
+                          "children": [
+                            {
+                              "name": "tuberculata",
+                              "children": [
+                                {
+                                  "name": "Ebalia_tuberculata",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Galathea",
+                          "children": [
+                            {
+                              "name": "nexa",
+                              "children": [
+                                {
+                                  "name": "Galathea_nexa",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ixa",
+                          "children": [
+                            {
+                              "name": "monodi",
+                              "children": [
+                                {
+                                  "name": "Ixa_monodi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Liocarcinus",
+                          "children": [
+                            {
+                              "name": "corrugatus",
+                              "children": [
+                                {
+                                  "name": "Liocarcinus_corrugatus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "intermedius",
+                              "children": [
+                                {
+                                  "name": "Lucifer_intermedius",
+                                  "size": 8
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medaeops",
+                          "children": [
+                            {
+                              "name": "neglectus",
+                              "children": [
+                                {
+                                  "name": "Medaeops_neglectus",
+                                  "size": 6
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medorippe",
+                          "children": [
+                            {
+                              "name": "lanata",
+                              "children": [
+                                {
+                                  "name": "Medorippe_lanata",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 9
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mysida",
+                      "children": [
+                        {
+                          "name": "Mysidopsis",
+                          "children": [
+                            {
+                              "name": "sp. 4",
+                              "children": [
+                                {
+                                  "name": "Mysidopsis_sp. 4",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Siriella",
+                          "children": [
+                            {
+                              "name": "cf. thompsoni",
+                              "children": [
+                                {
+                                  "name": "Siriella_cf. thompsoni",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Ostracoda",
+                  "children": [
+                    {
+                      "name": "Halocyprida",
+                      "children": [
+                        {
+                          "name": "Euconchoecia",
+                          "children": [
+                            {
+                              "name": "cf. chierchiae S15-D7",
+                              "children": [
+                                {
+                                  "name": "Euconchoecia_cf. chierchiae S15-D7",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Beryciformes",
+                      "children": [
+                        {
+                          "name": "Centroberyx",
+                          "children": [
+                            {
+                              "name": "spinosus",
+                              "children": [
+                                {
+                                  "name": "Centroberyx_spinosus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "whiteheadi",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_whiteheadi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Perciformes",
+                      "children": [
+                        {
+                          "name": "Serranus",
+                          "children": [
+                            {
+                              "name": "knysnaensis",
+                              "children": [
+                                {
+                                  "name": "Serranus_knysnaensis",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Scombriformes",
+                      "children": [
+                        {
+                          "name": "Scomber",
+                          "children": [
+                            {
+                              "name": "colias",
+                              "children": [
+                                {
+                                  "name": "Scomber_colias",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cnidaria",
+              "children": [
+                {
+                  "name": "Hydrozoa",
+                  "children": [
+                    {
+                      "name": "Siphonophorae",
+                      "children": [
+                        {
+                          "name": "Muggiaea",
+                          "children": [
+                            {
+                              "name": "atlantica",
+                              "children": [
+                                {
+                                  "name": "Muggiaea_atlantica",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Nanomia",
+                          "children": [
+                            {
+                              "name": "bijuga",
+                              "children": [
+                                {
+                                  "name": "Nanomia_bijuga",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mollusca",
+              "children": [
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "50m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Calanus",
+                          "children": [
+                            {
+                              "name": "sinicus",
+                              "children": [
+                                {
+                                  "name": "Calanus_sinicus",
+                                  "size": 8
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Canthocalanus",
+                          "children": [
+                            {
+                              "name": "pauper",
+                              "children": [
+                                {
+                                  "name": "Canthocalanus_pauper",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "mucronatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_mucronatus",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "pileatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_pileatus",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 3
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 7
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Undinula",
+                          "children": [
+                            {
+                              "name": "vulgaris",
+                              "children": [
+                                {
+                                  "name": "Undinula_vulgaris",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Callichirus",
+                          "children": [
+                            {
+                              "name": "gilchristi",
+                              "children": [
+                                {
+                                  "name": "Callichirus_gilchristi",
+                                  "size": 14
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Carcinoplax",
+                          "children": [
+                            {
+                              "name": "monodi",
+                              "children": [
+                                {
+                                  "name": "Carcinoplax_monodi",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Chaceon",
+                          "children": [
+                            {
+                              "name": "macphersoni",
+                              "children": [
+                                {
+                                  "name": "Chaceon_macphersoni",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Chiromantes",
+                          "children": [
+                            {
+                              "name": "eulimene",
+                              "children": [
+                                {
+                                  "name": "Chiromantes_eulimene",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Diogenes",
+                          "children": [
+                            {
+                              "name": "aff. pallacens",
+                              "children": [
+                                {
+                                  "name": "Diogenes_aff. pallacens",
+                                  "size": 4
+                                }
+                              ]
+                            },
+                            {
+                              "name": "costatus",
+                              "children": [
+                                {
+                                  "name": "Diogenes_costatus",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ebalia",
+                          "children": [
+                            {
+                              "name": "tuberculata",
+                              "children": [
+                                {
+                                  "name": "Ebalia_tuberculata",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Gnathophyllum",
+                          "children": [
+                            {
+                              "name": "americanum",
+                              "children": [
+                                {
+                                  "name": "Gnathophyllum_americanum",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Liocarcinus",
+                          "children": [
+                            {
+                              "name": "corrugatus",
+                              "children": [
+                                {
+                                  "name": "Liocarcinus_corrugatus",
+                                  "size": 6
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "intermedius",
+                              "children": [
+                                {
+                                  "name": "Lucifer_intermedius",
+                                  "size": 8
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Marsupenaeus",
+                          "children": [
+                            {
+                              "name": "japonicus",
+                              "children": [
+                                {
+                                  "name": "Marsupenaeus_japonicus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medaeops",
+                          "children": [
+                            {
+                              "name": "neglectus",
+                              "children": [
+                                {
+                                  "name": "Medaeops_neglectus",
+                                  "size": 7
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Medorippe",
+                          "children": [
+                            {
+                              "name": "lanata",
+                              "children": [
+                                {
+                                  "name": "Medorippe_lanata",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Thalamita",
+                          "children": [
+                            {
+                              "name": "gatavakensis",
+                              "children": [
+                                {
+                                  "name": "Thalamita_gatavakensis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 12
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "sadina",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_sadina",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "whiteheadi",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_whiteheadi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pleuronectiformes",
+                      "children": [
+                        {
+                          "name": "Cynoglossus",
+                          "children": [
+                            {
+                              "name": "lida",
+                              "children": [
+                                {
+                                  "name": "Cynoglossus_lida",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Scorpaeniformes",
+                      "children": [
+                        {
+                          "name": "Sorsogona",
+                          "children": [
+                            {
+                              "name": "portuguesa",
+                              "children": [
+                                {
+                                  "name": "Sorsogona_portuguesa",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cnidaria",
+              "children": [
+                {
+                  "name": "Hydrozoa",
+                  "children": [
+                    {
+                      "name": "Siphonophorae",
+                      "children": [
+                        {
+                          "name": "Liriope",
+                          "children": [
+                            {
+                              "name": "tetraphylla",
+                              "children": [
+                                {
+                                  "name": "Liriope_tetraphylla",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mollusca",
+              "children": [
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WP2",
+      "children": [
+        {
+          "name": "100m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Paracalanus",
+                          "children": [
+                            {
+                              "name": "aculeatus",
+                              "children": [
+                                {
+                                  "name": "Paracalanus_aculeatus",
+                                  "size": 3
+                                }
+                              ]
+                            },
+                            {
+                              "name": "aff. indicus",
+                              "children": [
+                                {
+                                  "name": "Paracalanus_aff. indicus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "mucronatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_mucronatus",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "pileatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_pileatus",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "subcrassus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_subcrassus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Liocarcinus",
+                          "children": [
+                            {
+                              "name": "corrugatus",
+                              "children": [
+                                {
+                                  "name": "Liocarcinus_corrugatus",
+                                  "size": 7
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Processa",
+                          "children": [
+                            {
+                              "name": "elegantula",
+                              "children": [
+                                {
+                                  "name": "Processa_elegantula",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Euphausiacea",
+                      "children": [
+                        {
+                          "name": "Euphausia",
+                          "children": [
+                            {
+                              "name": "recurva",
+                              "children": [
+                                {
+                                  "name": "Euphausia_recurva",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Nematoscelis",
+                          "children": [
+                            {
+                              "name": "atlantica",
+                              "children": [
+                                {
+                                  "name": "Nematoscelis_atlantica",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chaetognatha",
+              "children": [
+                {
+                  "name": "Sagittoidea",
+                  "children": [
+                    {
+                      "name": "Aphragmophora",
+                      "children": [
+                        {
+                          "name": "Aidanosagitta",
+                          "children": [
+                            {
+                              "name": "neglecta",
+                              "children": [
+                                {
+                                  "name": "Aidanosagitta_neglecta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Carangiformes",
+                      "children": [
+                        {
+                          "name": "Decapterus",
+                          "children": [
+                            {
+                              "name": "russelli",
+                              "children": [
+                                {
+                                  "name": "Decapterus_russelli",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "sadina",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_sadina",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Perciformes",
+                      "children": [
+                        {
+                          "name": "Pomadasys",
+                          "children": [
+                            {
+                              "name": "striatus",
+                              "children": [
+                                {
+                                  "name": "Pomadasys_striatus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cnidaria",
+              "children": [
+                {
+                  "name": "Scyphozoa",
+                  "children": [
+                    {
+                      "name": "Semaeostomeae",
+                      "children": [
+                        {
+                          "name": "Pelagia",
+                          "children": [
+                            {
+                              "name": "panopyra",
+                              "children": [
+                                {
+                                  "name": "Pelagia_panopyra",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mollusca",
+              "children": [
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Cephalaspidea",
+                      "children": [
+                        {
+                          "name": "Philine",
+                          "children": [
+                            {
+                              "name": "aperta",
+                              "children": [
+                                {
+                                  "name": "Philine_aperta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "200m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Paracalanus",
+                          "children": [
+                            {
+                              "name": "aculeatus",
+                              "children": [
+                                {
+                                  "name": "Paracalanus_aculeatus",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "aff. indicus",
+                              "children": [
+                                {
+                                  "name": "Paracalanus_aff. indicus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "mucronatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_mucronatus",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "pileatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_pileatus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "discaudata",
+                              "children": [
+                                {
+                                  "name": "Temora_discaudata",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Undinula",
+                          "children": [
+                            {
+                              "name": "vulgaris",
+                              "children": [
+                                {
+                                  "name": "Undinula_vulgaris",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Euphausiacea",
+                      "children": [
+                        {
+                          "name": "Euphausia",
+                          "children": [
+                            {
+                              "name": "recurva",
+                              "children": [
+                                {
+                                  "name": "Euphausia_recurva",
+                                  "size": 6
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Thysanoessa",
+                          "children": [
+                            {
+                              "name": "gregaria",
+                              "children": [
+                                {
+                                  "name": "Thysanoessa_gregaria",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chaetognatha",
+              "children": [
+                {
+                  "name": "Sagittoidea",
+                  "children": [
+                    {
+                      "name": "Aphragmophora",
+                      "children": [
+                        {
+                          "name": "Pseudosagitta",
+                          "children": [
+                            {
+                              "name": "lyra",
+                              "children": [
+                                {
+                                  "name": "Pseudosagitta_lyra",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Carangiformes",
+                      "children": [
+                        {
+                          "name": "Trachurus",
+                          "children": [
+                            {
+                              "name": "delagoa",
+                              "children": [
+                                {
+                                  "name": "Trachurus_delagoa",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "sadina",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_sadina",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Kurtiformes",
+                      "children": [
+                        {
+                          "name": "Apogon",
+                          "children": [
+                            {
+                              "name": "semiornatus",
+                              "children": [
+                                {
+                                  "name": "Apogon_semiornatus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Perciformes",
+                      "children": [
+                        {
+                          "name": "Pomadasys",
+                          "children": [
+                            {
+                              "name": "olivaceus",
+                              "children": [
+                                {
+                                  "name": "Pomadasys_olivaceus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Serranus",
+                          "children": [
+                            {
+                              "name": "knysnaensis",
+                              "children": [
+                                {
+                                  "name": "Serranus_knysnaensis",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pleuronectiformes",
+                      "children": [
+                        {
+                          "name": "Pseudorhombus",
+                          "children": [
+                            {
+                              "name": "elevatus",
+                              "children": [
+                                {
+                                  "name": "Pseudorhombus_elevatus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Scombriformes",
+                      "children": [
+                        {
+                          "name": "Scomber",
+                          "children": [
+                            {
+                              "name": "colias",
+                              "children": [
+                                {
+                                  "name": "Scomber_colias",
+                                  "size": 4
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cnidaria",
+              "children": [
+                {
+                  "name": "Hydrozoa",
+                  "children": [
+                    {
+                      "name": "Siphonophorae",
+                      "children": [
+                        {
+                          "name": "Muggiaea",
+                          "children": [
+                            {
+                              "name": "atlantica",
+                              "children": [
+                                {
+                                  "name": "Muggiaea_atlantica",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Scyphozoa",
+                  "children": [
+                    {
+                      "name": "Semaeostomeae",
+                      "children": [
+                        {
+                          "name": "Pelagia",
+                          "children": [
+                            {
+                              "name": "noctiluca",
+                              "children": [
+                                {
+                                  "name": "Pelagia_noctiluca",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mollusca",
+              "children": [
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "virgula",
+                              "children": [
+                                {
+                                  "name": "Creseis_virgula",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "20m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanus",
+                          "children": [
+                            {
+                              "name": "sinicus",
+                              "children": [
+                                {
+                                  "name": "Calanus_sinicus",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Canthocalanus",
+                          "children": [
+                            {
+                              "name": "pauper",
+                              "children": [
+                                {
+                                  "name": "Canthocalanus_pauper",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Labidocera",
+                          "children": [
+                            {
+                              "name": "acuta",
+                              "children": [
+                                {
+                                  "name": "Labidocera_acuta",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Paracalanus",
+                          "children": [
+                            {
+                              "name": "aculeatus",
+                              "children": [
+                                {
+                                  "name": "Paracalanus_aculeatus",
+                                  "size": 2
+                                }
+                              ]
+                            },
+                            {
+                              "name": "aff. indicus",
+                              "children": [
+                                {
+                                  "name": "Paracalanus_aff. indicus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "subcrassus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_subcrassus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Cyclopoida",
+                      "children": [
+                        {
+                          "name": "Ditrichocorycaeus",
+                          "children": [
+                            {
+                              "name": "andrewsi",
+                              "children": [
+                                {
+                                  "name": "Ditrichocorycaeus_andrewsi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Anapagurus",
+                          "children": [
+                            {
+                              "name": "hendersoni",
+                              "children": [
+                                {
+                                  "name": "Anapagurus_hendersoni",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Diogenes",
+                          "children": [
+                            {
+                              "name": "aff. pallacens",
+                              "children": [
+                                {
+                                  "name": "Diogenes_aff. pallacens",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "costatus",
+                              "children": [
+                                {
+                                  "name": "Diogenes_costatus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Galathea",
+                          "children": [
+                            {
+                              "name": "nexa",
+                              "children": [
+                                {
+                                  "name": "Galathea_nexa",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "sp. DNZ105",
+                              "children": [
+                                {
+                                  "name": "Lucifer_sp. DNZ105",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Euphausiacea",
+                      "children": [
+                        {
+                          "name": "Euphausia",
+                          "children": [
+                            {
+                              "name": "recurva",
+                              "children": [
+                                {
+                                  "name": "Euphausia_recurva",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Thysanoessa",
+                          "children": [
+                            {
+                              "name": "gregaria",
+                              "children": [
+                                {
+                                  "name": "Thysanoessa_gregaria",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Mysida",
+                      "children": [
+                        {
+                          "name": "Mysidopsis",
+                          "children": [
+                            {
+                              "name": "sp. 4",
+                              "children": [
+                                {
+                                  "name": "Mysidopsis_sp. 4",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Carangiformes",
+                      "children": [
+                        {
+                          "name": "Trachurus",
+                          "children": [
+                            {
+                              "name": "delagoa",
+                              "children": [
+                                {
+                                  "name": "Trachurus_delagoa",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Clupeiformes",
+                      "children": [
+                        {
+                          "name": "Etrumeus",
+                          "children": [
+                            {
+                              "name": "sadina",
+                              "children": [
+                                {
+                                  "name": "Etrumeus_sadina",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Perciformes",
+                      "children": [
+                        {
+                          "name": "Pomadasys",
+                          "children": [
+                            {
+                              "name": "olivaceus",
+                              "children": [
+                                {
+                                  "name": "Pomadasys_olivaceus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cnidaria",
+              "children": [
+                {
+                  "name": "Hydrozoa",
+                  "children": [
+                    {
+                      "name": "Siphonophorae",
+                      "children": [
+                        {
+                          "name": "Muggiaea",
+                          "children": [
+                            {
+                              "name": "atlantica",
+                              "children": [
+                                {
+                                  "name": "Muggiaea_atlantica",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Nanomia",
+                          "children": [
+                            {
+                              "name": "bijuga",
+                              "children": [
+                                {
+                                  "name": "Nanomia_bijuga",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mollusca",
+              "children": [
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "50m",
+          "children": [
+            {
+              "name": "Arthropoda",
+              "children": [
+                {
+                  "name": "Copepoda",
+                  "children": [
+                    {
+                      "name": "Calanoida",
+                      "children": [
+                        {
+                          "name": "Calanoides",
+                          "children": [
+                            {
+                              "name": "natalis",
+                              "children": [
+                                {
+                                  "name": "Calanoides_natalis",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Calanus",
+                          "children": [
+                            {
+                              "name": "sinicus",
+                              "children": [
+                                {
+                                  "name": "Calanus_sinicus",
+                                  "size": 3
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Paracalanus",
+                          "children": [
+                            {
+                              "name": "aff. indicus",
+                              "children": [
+                                {
+                                  "name": "Paracalanus_aff. indicus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Subeucalanus",
+                          "children": [
+                            {
+                              "name": "mucronatus",
+                              "children": [
+                                {
+                                  "name": "Subeucalanus_mucronatus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Temora",
+                          "children": [
+                            {
+                              "name": "turbinata",
+                              "children": [
+                                {
+                                  "name": "Temora_turbinata",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Malacostraca",
+                  "children": [
+                    {
+                      "name": "Decapoda",
+                      "children": [
+                        {
+                          "name": "Anapagurus",
+                          "children": [
+                            {
+                              "name": "hendersoni",
+                              "children": [
+                                {
+                                  "name": "Anapagurus_hendersoni",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cestopagurus",
+                          "children": [
+                            {
+                              "name": "timidus",
+                              "children": [
+                                {
+                                  "name": "Cestopagurus_timidus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Diogenes",
+                          "children": [
+                            {
+                              "name": "aff. pallacens",
+                              "children": [
+                                {
+                                  "name": "Diogenes_aff. pallacens",
+                                  "size": 1
+                                }
+                              ]
+                            },
+                            {
+                              "name": "costatus",
+                              "children": [
+                                {
+                                  "name": "Diogenes_costatus",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ebalia",
+                          "children": [
+                            {
+                              "name": "tuberculata",
+                              "children": [
+                                {
+                                  "name": "Ebalia_tuberculata",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Galathea",
+                          "children": [
+                            {
+                              "name": "intermedia",
+                              "children": [
+                                {
+                                  "name": "Galathea_intermedia",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Liocarcinus",
+                          "children": [
+                            {
+                              "name": "corrugatus",
+                              "children": [
+                                {
+                                  "name": "Liocarcinus_corrugatus",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Lucifer",
+                          "children": [
+                            {
+                              "name": "sp. DNZ105",
+                              "children": [
+                                {
+                                  "name": "Lucifer_sp. DNZ105",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Trachysalambria",
+                          "children": [
+                            {
+                              "name": "curvirostris",
+                              "children": [
+                                {
+                                  "name": "Trachysalambria_curvirostris",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Xaiva",
+                          "children": [
+                            {
+                              "name": "mcleayi",
+                              "children": [
+                                {
+                                  "name": "Xaiva_mcleayi",
+                                  "size": 2
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Euphausiacea",
+                      "children": [
+                        {
+                          "name": "Euphausia",
+                          "children": [
+                            {
+                              "name": "recurva",
+                              "children": [
+                                {
+                                  "name": "Euphausia_recurva",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Thysanoessa",
+                          "children": [
+                            {
+                              "name": "gregaria",
+                              "children": [
+                                {
+                                  "name": "Thysanoessa_gregaria",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Chordata",
+              "children": [
+                {
+                  "name": "Actinopterygii",
+                  "children": [
+                    {
+                      "name": "Callionymiformes",
+                      "children": [
+                        {
+                          "name": "Callionymus",
+                          "children": [
+                            {
+                              "name": "marleyi",
+                              "children": [
+                                {
+                                  "name": "Callionymus_marleyi",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Carangiformes",
+                      "children": [
+                        {
+                          "name": "Trachurus",
+                          "children": [
+                            {
+                              "name": "delagoa",
+                              "children": [
+                                {
+                                  "name": "Trachurus_delagoa",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Cnidaria",
+              "children": [
+                {
+                  "name": "Hydrozoa",
+                  "children": [
+                    {
+                      "name": "Siphonophorae",
+                      "children": [
+                        {
+                          "name": "Muggiaea",
+                          "children": [
+                            {
+                              "name": "atlantica",
+                              "children": [
+                                {
+                                  "name": "Muggiaea_atlantica",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Nanomia",
+                          "children": [
+                            {
+                              "name": "bijuga",
+                              "children": [
+                                {
+                                  "name": "Nanomia_bijuga",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mollusca",
+              "children": [
+                {
+                  "name": "Gastropoda",
+                  "children": [
+                    {
+                      "name": "Pteropoda",
+                      "children": [
+                        {
+                          "name": "Creseis",
+                          "children": [
+                            {
+                              "name": "acicula",
+                              "children": [
+                                {
+                                  "name": "Creseis_acicula",
+                                  "size": 3
+                                }
+                              ]
+                            },
+                            {
+                              "name": "virgula",
+                              "children": [
+                                {
+                                  "name": "Creseis_virgula",
+                                  "size": 1
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
